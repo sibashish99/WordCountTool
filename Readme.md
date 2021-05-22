@@ -15,4 +15,4 @@ Run the WordCountTool Executable Jar file
 
 ```
 ## Screenshot
-![] (screenshots/img.png)
+![img](https://user-images.githubusercontent.com/62691250/119230628-ba1ea580-bb3a-11eb-96ba-eec36591c8c1.png)
